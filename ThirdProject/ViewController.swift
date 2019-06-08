@@ -41,10 +41,6 @@ class ViewController: UIViewController {
         }
         
     }
-
-    
-    
-
     
     
     func startTimer() {
