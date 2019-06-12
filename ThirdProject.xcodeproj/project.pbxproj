@@ -14,7 +14,7 @@
 		9A902C5C22A33F4700BD9807 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A902C5A22A33F4700BD9807 /* LaunchScreen.storyboard */; };
 		9A902C6422A349BC00BD9807 /* Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A902C6322A349BC00BD9807 /* Event.swift */; };
 		9A902C6622A34A1500BD9807 /* EventProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A902C6522A34A1500BD9807 /* EventProvider.swift */; };
-		9AF5BC8F22A5A2C20087AA42 /* GameManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AF5BC8E22A5A2C20087AA42 /* GameManager.swift */; };
+		9AEB206622B0210800A6E27E /* WebViewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AEB206522B0210800A6E27E /* WebViewViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +27,7 @@
 		9A902C5D22A33F4700BD9807 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9A902C6322A349BC00BD9807 /* Event.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event.swift; sourceTree = "<group>"; };
 		9A902C6522A34A1500BD9807 /* EventProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventProvider.swift; sourceTree = "<group>"; };
-		9AF5BC8E22A5A2C20087AA42 /* GameManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameManager.swift; sourceTree = "<group>"; };
+		9AEB206522B0210800A6E27E /* WebViewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,7 +68,7 @@
 				9A902C5D22A33F4700BD9807 /* Info.plist */,
 				9A902C6322A349BC00BD9807 /* Event.swift */,
 				9A902C6522A34A1500BD9807 /* EventProvider.swift */,
-				9AF5BC8E22A5A2C20087AA42 /* GameManager.swift */,
+				9AEB206522B0210800A6E27E /* WebViewViewController.swift */,
 			);
 			path = ThirdProject;
 			sourceTree = "<group>";
@@ -148,7 +148,7 @@
 				9A902C5122A33F4500BD9807 /* ViewController.swift in Sources */,
 				9A902C4F22A33F4500BD9807 /* AppDelegate.swift in Sources */,
 				9A902C6622A34A1500BD9807 /* EventProvider.swift in Sources */,
-				9AF5BC8F22A5A2C20087AA42 /* GameManager.swift in Sources */,
+				9AEB206622B0210800A6E27E /* WebViewViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

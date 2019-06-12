@@ -29,7 +29,7 @@ class EventProvider{
         //7
         eventBank.append(Event(question: "President Franklin D. Roosevelt is inaugurated for the first time.", correctData: 1933, url: "https://en.wikipedia.org/wiki/First_inauguration_of_Franklin_D._Roosevelt"))
         //8
-        eventBank.append(Event(question: "The attack on Pearl Harbor, Hawaii, commences at 7:55 a.m. when Japanese fighter planes launch a surprise attack on United States soil, destroying the U.S. Pacific Fleet docked at the base.", correctData: 1941, url: "https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor"))
+        eventBank.append(Event(question: "The attack on Pearl Harbor, Hawaii.", correctData: 1941, url: "https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor"))
         //9
          eventBank.append(Event(question: "President Roosevelt, Prime Minister Churchill, and Premier Josef Stalin hold the Yalta Conference in the Soviet Union.", correctData: 1945, url: "https://en.wikipedia.org/wiki/Yalta_Conference"))
         //10
@@ -39,7 +39,7 @@ class EventProvider{
         //12
         eventBank.append(Event(question: "President Dwight D. Eisenhower is inaugurated for his second term in office.", correctData: 1957, url: "https://en.wikipedia.org/wiki/Second_inauguration_of_Dwight_D._Eisenhower"))
         //13
-        eventBank.append(Event(question: "Explorer I, the first U.S. space satellite, is launched by the Army at Cape Canaveral. It would discover the Van Allen radiation belt.", correctData: 1958, url: "https://en.wikipedia.org/wiki/Explorer_1"))
+        eventBank.append(Event(question: "Explorer I, the first U.S. space satellite, is launched by the Army at Cape Canaveral.", correctData: 1958, url: "https://en.wikipedia.org/wiki/Explorer_1"))
         //14
         eventBank.append(Event(question: "Alaska becomes the 49th state.", correctData: 1959, url: "https://en.wikipedia.org/wiki/Alaska"))
        
@@ -68,6 +68,8 @@ class EventProvider{
         //24
         eventBank.append(Event(question: "Jimmy Carter is inaugurated as the 39th president.", correctData: 1977, url: "https://en.wikipedia.org/wiki/Inauguration_of_Jimmy_Carter"))
        
+        //25
+        eventBank.append(Event(question: "The end of the Cold War period.", correctData: 1991, url: "https://en.wikipedia.org/wiki/Cold_War_(1985%E2%80%931991)"))
         
         
         
