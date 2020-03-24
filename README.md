@@ -12,10 +12,11 @@ Specifically, the game involves users taking historical events and seeing if the
   - Create a function to assess whether or not events were ordered correctly. Points should be awarded for fully correct solutions only and then another round of play begins. You can choose whether the oldest events should be at the top or at the bottom, depending on your game's content and feel free to add a text label or icon to signal that to to users.
   - Create a countdown timer to give users 60 sec to correctly order the events. When the timer expires, the events are checked for correct order. If a user completes the ordering in less than 60secs, they should be able to shake the device in order to check order immediately. Create logic such that after 6 rounds of play the game concludes and a total score is displayed.
   - Build all user interface as per the provided mockups. The app should display correctly on any iPhone 4.7in or larger. Be sure to integrate the App Icons provided.
-
   - To get an "exceeds" rating, you can expand on the project in the following ways: 
   Add a feature such that at conclusion of each round users can tap events and be presented with a WebView or SafariViewController displaying a url with information about the event. Users can close the webview and resume game play. A sample of this feature is shown in the project mockups.
-
+**Received Grade:**
+  - Exceeds Expectations
+  
 ![Game in Progress](https://i.imgur.com/D8BhaSC.png)
 ![WikiPage](https://i.imgur.com/qs0v3lM.png)
 ![Game Over](https://i.imgur.com/JQidk6z.png)
