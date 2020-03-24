@@ -30,3 +30,8 @@ Extra Credit
 To get an "exceeds" rating, you can expand on the project in the following ways:
 
 Add a feature such that at conclusion of each round users can tap events and be presented with a WebView or SafariViewController displaying a url with information about the event. Users can close the webview and resume game play. A sample of this feature is shown in the project mockups.
+
+![Game in Progress](https://i.imgur.com/D8BhaSC.png)
+![WikiPage](https://i.imgur.com/qs0v3lM.png)
+![Game Over](https://i.imgur.com/JQidk6z.png)
+
