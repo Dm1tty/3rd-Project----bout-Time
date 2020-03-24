@@ -14,6 +14,7 @@ Specifically, the game involves users taking historical events and seeing if the
   - Build all user interface as per the provided mockups. The app should display correctly on any iPhone 4.7in or larger. Be sure to integrate the App Icons provided.
   - To get an "exceeds" rating, you can expand on the project in the following ways: 
   Add a feature such that at conclusion of each round users can tap events and be presented with a WebView or SafariViewController displaying a url with information about the event. Users can close the webview and resume game play. A sample of this feature is shown in the project mockups.
+
 **Received Grade:**
   - Exceeds Expectations
   
