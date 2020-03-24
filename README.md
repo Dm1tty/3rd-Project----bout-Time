@@ -17,6 +17,8 @@ Specifically, the game involves users taking historical events and seeing if the
 
 **Received Grade:**
   - Exceeds Expectations
+
+**Screenshots:**
   
 ![Game in Progress](https://i.imgur.com/D8BhaSC.png)
 ![WikiPage](https://i.imgur.com/qs0v3lM.png)
